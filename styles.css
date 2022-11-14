@@ -1,0 +1,13 @@
+ /* Set styles for HTML elements */
+ body{
+    background-color: #dee1b7;
+  }
+
+  h1, h2 {font-family: sans-serif; text-align: center;} 
+  .imageInput {width: 100%; text-align: center;}
+  .imageResult {font-family: arial; width: 100%; text-align: center; text-transform: uppercase;}
+  .uploadedImage {width: 50%; height: auto; margin-left: 25%;}
+  h1{
+    background-color: #245C21;
+    color: white
+  }
